@@ -1,0 +1,1 @@
+docker run -d my_static_html_test
